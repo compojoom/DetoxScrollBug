@@ -1,0 +1,3 @@
+rootProject.name = 'DetoxScrollBug'
+
+include ':app'
